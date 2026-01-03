@@ -12,7 +12,7 @@ const Contact = () => {
     setStatus("loading");
 
     try {
-      const res = await fetch("http://localhost:4000/api/contact", {
+      const res = await fetch("https://backend-portfolio-k4jk.onrender.com/api/contact", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
