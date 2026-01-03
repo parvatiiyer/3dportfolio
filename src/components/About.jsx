@@ -82,9 +82,7 @@ const About = () => {
                                     Hi, I’m Parvati
                                 </h3>
                                 <p className="text-white/60 text-sm leading-relaxed">
-                                    I enjoy building clean, interactive frontends and experimenting
-                                    with 3D on the web. I care deeply about polish, motion, and how
-                                    products feel.
+                                    I enjoy building human-centric AI, scalable backend systems, and intuitive interfaces. I learn fast, love taking ownership, and thrive in environments where I can build, experiment, and contribute meaningfully.
                                 </p>
                             </div>
                         </div>
@@ -112,8 +110,7 @@ const About = () => {
                                     Tech Stack
                                 </h3>
                                 <p className="text-white/60 text-sm leading-relaxed">
-                                    React, Three.js, Tailwind, and JavaScript — blending UI
-                                    engineering with motion and immersive 3D experiences.
+                                    Passionate about building real products with the MERN stack, Python Libraries and AI tools. 
                                 </p>
                             </div>
                         </div>
