@@ -51,7 +51,7 @@ export const myProjects = [
     subdesc:
       'Built using React.js and TailwindCSS, the platform focuses on presenting information clearly, with a structured layout and mobile-first experience.',
     href: 'https://resume-analyser-lyart.vercel.app/auth?next=/',
-    texture: '/videos/resume-demo.mov',   // kept EXACTLY the same
+    texture: '/videos/resume-demo.mp4',   // kept EXACTLY the same
     logo: '/assets/cv.png',           // unchanged
     logoStyle: {
       backgroundColor: '#2A1816',
@@ -73,7 +73,7 @@ export const myProjects = [
     subdesc:
       'Built using Next.js, TypeScript, Supabase, Clerk, Vapi.ai, Sentry.',
     href: 'https://saas-app-alpha-sand.vercel.app/',
-    texture: '/videos/converso.mov',   // kept EXACTLY the same
+    texture: '/videos/converso.mp4',   // kept EXACTLY the same
     logo: '/assets/logo.svg',           // unchanged
     logoStyle: {
       backgroundColor: '#2A1816',
@@ -95,7 +95,7 @@ export const myProjects = [
     subdesc:
       'Built using Next.js, Supabase, Cron Jobs, Resend, TailwindCSS',
     href: 'https://dealdropp.vercel.app/',
-    texture: '/videos/dealdrop.mov',   // kept EXACTLY the same
+    texture: '/videos/dealdrop.mp4',   // kept EXACTLY the same
     logo: '/assets/deal-drop-logo.png',           // unchanged
     logoStyle: {
       backgroundColor: '#2A1816',
