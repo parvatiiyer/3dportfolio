@@ -110,13 +110,6 @@ export default function Navbar() {
             ABOUT
           </Link>
           <Link
-            to="/skills"
-            onClick={() => setOpen(false)}
-            className="text-sm tracking-widest text-white/80 hover:text-white transition"
-          >
-            SKILLS
-          </Link>
-          <Link
             to="/contact"
             onClick={() => setOpen(false)}
             className="text-sm tracking-widest text-white/80 hover:text-white transition"

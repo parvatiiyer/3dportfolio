@@ -30,6 +30,7 @@
     "react-globe.gl": "^2.37.0",
     "react-responsive": "^10.0.1",
     "react-router-dom": "^7.11.0",
+    "resend": "^6.6.0",
     "tailwindcss": "^4.1.18",
     "three": "^0.182.0",
     "three-stdlib": "^2.36.1"
